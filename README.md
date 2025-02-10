@@ -58,3 +58,5 @@ The goal of this project is to set up a functioning OpenVPN server and client su
   After a successful connection, open a command prompt on the client device and run:
   ```cmd
   ping 10.8.0.1
+``
+  A successful ping confirms that the VPN tunnel is established and that packets are securely transmitted between the client and server.
