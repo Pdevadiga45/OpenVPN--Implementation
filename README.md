@@ -1,4 +1,4 @@
-# OpenVPN - Secure VPN Implementation
+# OpenVPN - Secirty Tool Implementation
 
 This project demonstrates the implementation of a secure VPN tunnel using OpenVPN. It includes configuration files for both the OpenVPN server and client, enabling a secure, encrypted connection between two devices on different networks.
 
